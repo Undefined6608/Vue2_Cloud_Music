@@ -1,0 +1,75 @@
+.Login .icon.data-v-3a2da0cc {
+  width: 40vw;
+  height: 40vw;
+  margin-top: 10vh;
+  margin-left: 30vw;
+}
+.Login .icon .icon_img.data-v-3a2da0cc {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+.Login .Login_option.data-v-3a2da0cc {
+  width: 90vw;
+  height: 50vh;
+  margin: 0 auto;
+  margin-top: 5vh;
+  padding-top: 1vh;
+}
+.Login .Login_option .box.data-v-3a2da0cc {
+  width: 90vw;
+  height: 45vh;
+  background-color: #ffffff;
+}
+.Login .Login_option .box .pwd.data-v-3a2da0cc {
+  width: 100%;
+  height: 100%;
+  padding-top: 10vh;
+}
+.Login .Login_option .box .pwd .list.data-v-3a2da0cc {
+  width: 90%;
+  margin: 0 auto;
+}
+.Login .Login_option .box .pwd .submit.data-v-3a2da0cc {
+  width: 90%;
+  background-color: aqua;
+  border-radius: 15px;
+  margin-top: 5vh;
+}
+.Login .Login_option .box .verify.data-v-3a2da0cc {
+  width: 100%;
+  height: 100%;
+  padding-top: 7vh;
+}
+.Login .Login_option .box .verify .list.data-v-3a2da0cc {
+  width: 90%;
+  margin: 0 auto;
+}
+.Login .Login_option .box .verify .submit.data-v-3a2da0cc {
+  width: 90%;
+  background-color: aqua;
+  border-radius: 15px;
+  margin-top: 5vh;
+}
+.Login .Login_option .box .verify .getVerify_btn.data-v-3a2da0cc {
+  width: 30vw;
+  margin-right: 5vw;
+  background-color: coral;
+  color: #ffffff;
+}
+.Login .Login_option .box .email.data-v-3a2da0cc {
+  width: 100%;
+  height: 100%;
+  padding-top: 10vh;
+}
+.Login .Login_option .box .email .list.data-v-3a2da0cc {
+  width: 90%;
+  margin: 0 auto;
+}
+.Login .Login_option .box .email .submit.data-v-3a2da0cc {
+  width: 90%;
+  background-color: aqua;
+  border-radius: 15px;
+  margin-top: 5vh;
+}
+

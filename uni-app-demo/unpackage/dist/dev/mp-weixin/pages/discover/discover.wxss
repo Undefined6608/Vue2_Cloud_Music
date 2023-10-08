@@ -1,0 +1,77 @@
+.discover.data-v-42b8c6b4 {
+  width: 100vw;
+  height: 100vh;
+  padding-top: 2vh;
+  background: linear-gradient(180deg, papayawhip, white) no-repeat;
+}
+.discover .title.data-v-42b8c6b4 {
+  width: 100%;
+  height: 3vh;
+  display: flex;
+  justify-content: space-around;
+}
+.discover .title .icon.data-v-42b8c6b4 {
+  width: 3vh;
+  height: 3vh;
+}
+.discover .title .input.data-v-42b8c6b4 {
+  width: 75vw;
+  height: 3vh;
+}
+.discover .nav_box.data-v-42b8c6b4 {
+  width: 100vw;
+  height: 20vh;
+  margin-top: 3vh;
+}
+.discover .nav_box .nav_swiper.data-v-42b8c6b4 {
+  width: 100%;
+  height: 100%;
+}
+.discover .nav_box .nav_swiper .swiper-item.data-v-42b8c6b4 {
+  width: 95%;
+  height: 100%;
+  margin: 0 auto;
+}
+.discover .nav_box .nav_swiper .swiper-item ._img.data-v-42b8c6b4 {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.discover .moddle.data-v-42b8c6b4 {
+  width: 100vw;
+  height: 95vh;
+  padding-top: 2vh;
+}
+.discover .moddle .main.data-v-42b8c6b4 {
+  width: 100%;
+  height: 100%;
+}
+.discover .moddle .main .icon_list.data-v-42b8c6b4 {
+  width: 100%;
+  height: 15vh;
+  border-bottom: solid 1px lightgrey ;
+}
+.discover .moddle .main .icon_list .list.data-v-42b8c6b4 {
+  width: 5vh;
+  height: 10vh;
+  border-radius: 100%;
+  margin: 1vh 3vh;
+}
+.discover .moddle .main .icon_list .list .tp.data-v-42b8c6b4 {
+  background-color: pink;
+  border-radius: 100%;
+  width: 5vh;
+  height: 5vh;
+  text-align: center;
+}
+.discover .moddle .main .icon_list .list .tp ._img.data-v-42b8c6b4 {
+  margin-top: 1.5vh;
+  width: 3vh;
+  height: 3vh;
+}
+.discover .moddle .main .icon_list .list ._p.data-v-42b8c6b4 {
+  text-align: center;
+  color: #515151;
+  font-size: 5px;
+}
+

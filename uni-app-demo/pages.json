@@ -1,0 +1,125 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "uni-app",
+			"navigationStyle": "custom"
+		}
+	}    ,{
+            "path" : "pages/Login/Login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "网易云音乐-登录",
+				"navigationStyle": "custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/home/home",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "网易云音乐-我的",
+				"navigationStyle": "custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/discover/discover",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "网易云音乐-首页",
+				"navigationStyle": "custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/podcast/podcast",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "网易云音乐-播客",
+				"navigationStyle": "custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/attention/attention",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "网易云音乐-关注",
+				"navigationStyle": "custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/cloud_village/cloud_village",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "网易云音乐-云村",
+				"navigationStyle": "custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/music/music",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "歌曲详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	
+	"tabBar": {
+		"backgroundColor": "#eeeeef",
+		"color": "#000000",
+		"selectedColor": "#e16531",
+		"list": [
+			{
+				"pagePath": "pages/discover/discover",
+				"iconPath": "/static/main/discover.png",
+				"selectedIconPath": "/static/main/sele_discover.png",
+				"text": "发现"
+			},
+			{
+				"pagePath": "pages/podcast/podcast",
+				"iconPath": "/static/main/podcast.png",
+				"selectedIconPath": "/static/main/sele_podcast.png",
+				"text": "播客"
+			},
+			{
+				"pagePath": "pages/home/home",
+				"iconPath": "/static/main/mine.png",
+				"selectedIconPath": "/static/main/sele_mine.png",
+				"text": "我的"
+			},
+			{
+				"pagePath": "pages/attention/attention",
+				"iconPath": "/static/main/attention.png",
+				"selectedIconPath": "/static/main/sele_attention.png",
+				"text": "关注"
+			},
+			{
+				"pagePath": "pages/cloud_village/cloud_village",
+				"iconPath": "static/main/cloud_village.png",
+				"selectedIconPath": "static/main/sele_cloud_village.png",
+				"text": "云村"
+			}
+		]
+	}
+}
